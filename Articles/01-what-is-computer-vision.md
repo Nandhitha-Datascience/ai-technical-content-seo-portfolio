@@ -76,7 +76,7 @@ The output can then be presented to a user or passed to another system for furth
 
 ## The Basic Computer Vision Pipeline
 
-![Computer vision pipeline showing image processing, AI model prediction, and final result](images/computer-vision-pipeline.png)
+![Computer vision pipeline showing image processing, AI model prediction, and final result](ai-technical-content-seo-portfolio/images/computer-vision-pipeline.png)
 
 A simplified computer vision workflow can be represented as:
 
