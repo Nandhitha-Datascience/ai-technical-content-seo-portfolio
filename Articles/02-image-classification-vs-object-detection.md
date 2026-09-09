@@ -69,6 +69,7 @@ Therefore, object detection answers two questions:
 **Where are they located?**
 
 ## Key Difference
+![Comparison of image classification and object detection showing labels and bounding boxes](../images/classification-vs-object-detection.png)
 
 The main difference is the type of output produced.
 
