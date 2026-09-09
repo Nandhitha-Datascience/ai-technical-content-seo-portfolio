@@ -124,6 +124,7 @@ For example:
 The extracted text can then be displayed, stored, edited, or processed by another application.
 
 ## OCR Pipeline
+![OCR pipeline showing document image preprocessing, text detection, character recognition, and extracted text](../images/ocr-pipeline.png)
 
 A complete OCR pipeline can be represented as:
 
